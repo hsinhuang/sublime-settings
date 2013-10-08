@@ -1,0 +1,7 @@
+# cache
+*.cache
+
+# swap file
+*.tmp
+*.swap
+*.swp
