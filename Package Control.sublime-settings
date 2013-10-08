@@ -1,0 +1,10 @@
+{
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"GitGutter",
+		"Pylinter",
+		"SublimeCodeIntel",
+		"SublimeREPL"
+	]
+}
