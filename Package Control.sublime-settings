@@ -3,6 +3,7 @@
 	[
 		"All Autocomplete",
 		"GitGutter",
+		"Markdown Preview",
 		"Pylinter",
 		"SublimeCodeIntel",
 		"SublimeREPL"
