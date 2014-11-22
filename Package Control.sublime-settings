@@ -5,6 +5,8 @@
 		"GitGutter",
 		"Markdown Preview",
 		"Pylinter",
+		"ScalaFormat",
+		"ScalaWorksheet",
 		"SublimeCodeIntel",
 		"SublimeREPL"
 	]
