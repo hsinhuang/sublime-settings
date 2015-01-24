@@ -10,14 +10,18 @@
 	"installed_packages":
 	[
 		"All Autocomplete",
+		"Anaconda",
 		"GitGutter",
 		"Markdown Preview",
 		"Package Control",
-		"Pylinter",
 		"ScalaFormat",
 		"ScalaWorksheet",
 		"SublimeAStyleFormatter",
 		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-ghc",
+		"SublimeLinter-pep8",
+		"SublimeLinter-pyflakes",
 		"SublimeREPL"
 	]
 }
