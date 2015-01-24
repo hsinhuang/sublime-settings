@@ -20,8 +20,8 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Markdown",
-		"Pylinter"
+		"Pylinter",
+		"Markdown"
 	],
 	"rulers":
 	[
