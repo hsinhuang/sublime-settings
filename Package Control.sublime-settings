@@ -9,15 +9,14 @@
 	],
 	"installed_packages":
 	[
-		"All Autocomplete",
 		"Anaconda",
+		"Emmet",
 		"GitGutter",
 		"Markdown Preview",
 		"Package Control",
 		"ScalaFormat",
-		"ScalaWorksheet",
+		"SideBarEnhancements",
 		"SublimeAStyleFormatter",
-		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-ghc",
 		"SublimeLinter-pep8",
